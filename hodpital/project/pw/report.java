@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 class MEDREPORT
 {
+	
     public void testreport()
     {
         int staffID =123;
